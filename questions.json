@@ -1,0 +1,16 @@
+[
+ {"q":"Which program is for a grade 10 student?","lang":"en","expect":"answer","must":["FORWARD"]},
+ {"q":"I want to do a master's abroad, what do you offer?","lang":"en","expect":"answer","must":["RISE"]},
+ {"q":"My son is in grade 6, is he too young?","lang":"en","expect":"answer","must":["START"]},
+ {"q":"What do you do for essays?","lang":"en","expect":"answer","must":["essay"]},
+ {"q":"What is the Admission Simulation?","lang":"en","expect":"answer","must":["Simulation"]},
+ {"q":"How much does FORWARD cost?","lang":"en","expect":"handoff","must":[]},
+ {"q":"Do you guarantee admission to Harvard?","lang":"en","expect":"handoff","must":[]},
+ {"q":"Can you get me a full scholarship?","lang":"en","expect":"refuse","must":[]},
+ {"q":"What is the deadline for UCAS?","lang":"en","expect":"handoff","must":[]},
+ {"q":"Hansı proqram 11-ci sinif şagirdi üçündür?","lang":"az","expect":"answer","must":["FORWARD"]},
+ {"q":"Magistr üçün nə təklif edirsiniz?","lang":"az","expect":"answer","must":["RISE"]},
+ {"q":"Konsultasiyaya necə yazılım?","lang":"az","expect":"answer","must":[]},
+ {"q":"Proqramın qiyməti nə qədərdir?","lang":"az","expect":"handoff","must":[]},
+ {"q":"Is the weather good in Baku today?","lang":"en","expect":"handoff","must":[]}
+]
